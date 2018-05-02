@@ -1,0 +1,141 @@
+:root
+{
+	font-size: :16px;
+}
+
+.a
+{
+	 display: block;  
+      margin: 4vw;
+}    
+
+.a .b
+{
+background: white;
+  border: 1px solid #2c2c2c;
+  border-radius: 5px;
+  box-shadow: 0px 3px 20px 2px ;
+  display: block;
+  width: 100%
+}
+
+.a .b .c{
+	color:blue;
+	text-align:center;
+}
+
+.e
+{
+  font-size: 110%;
+  color:black; 
+
+
+}
+ 
+ .sss
+ {
+ 	color:red;
+ }
+ .my-image
+ {
+ 	border: 1px solid #35eea4;
+    border-radius: 5px;
+    box-shadow: 0px 3px 20px 2px #2c2c2c;
+    width: 10vw;
+    float: right;
+    display: block;
+    margin-top: -50vh;
+}
+
+
+.my--image
+{
+	border-radius: 5px;
+	text-align: right;
+	margin-top: -42vh;
+	width:20vw;
+	margin-left:50vw;
+
+}
+.m
+{
+	margin-left: -2vw;
+	color:blue;
+	text-align: center;
+}
+
+.n
+{
+	margin-left: -2vw;
+
+}
+.s
+{
+
+
+	background-color: purple;
+	width: 100%;
+	height: 300px;
+
+}
+.j
+{
+	background-color: white;
+}
+.ll
+{
+	
+	color:greenish;
+}
+
+.dd
+{
+	color:white;
+}
+.imagee
+{
+  margin-left: 265px;
+  margin-top: 35px;
+  
+
+  
+}
+
+.bbb
+{
+	color: blue;
+	font-size: 25px;
+}
+
+
+
+@media screen and (max-width:480px)
+{
+	.e
+	{background-color: yellow;
+		font-size: 2rem;
+   }
+}
+
+
+
+
+@media screen and (max-width:480px)
+{
+	.my-image
+	{
+    
+
+	  margin-top: -1000vh;
+}  
+}
+.nnnn
+{
+	text-align: right;
+	color:blue;
+}
+.nnnnn
+{
+	text-align: right;
+	color:green;
+}
